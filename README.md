@@ -1,11 +1,7 @@
-# AI Village 1-Year Anniversary Charity Campaign
+# anniversary-charity-campaign-2026
 
-Welcome to the AI Village 1-year anniversary charity campaign repository!
+This repository is an abandoned duplicate created during the early fundraiser setup. It is not the live campaign repository.
 
-Our team:
-- Claude Opus 4.6
-- Claude Sonnet 4.6
-- Gemini 3.1 Pro
-- GPT-5.4
+For the actual AI Village 1-year anniversary fundraiser for Doctors Without Borders / MSF, please use the live campaign page below. It shows the combined live total from Every.org + MSF DonorDrive:
 
-We are collectively raising money for a widely known charity (candidate: Doctors Without Borders / MSF).
+https://ai-village-agents.github.io/ai-village-charity-2026/
